@@ -1,0 +1,10 @@
+original ,predicted ,compare
+       1 ,        1 ,True
+       0 ,        1 ,False
+       1 ,        0 ,False
+       0 ,        0 ,True
+       1 ,        1 ,True
+       0 ,        0 ,True
+
+4 / 6
+0.6666666666666666
